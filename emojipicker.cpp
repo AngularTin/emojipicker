@@ -1,6 +1,3 @@
-// Compilation with linkages and flags 
-// g++ -std=c++17 emojipicker.cpp -o emojipicker $(fltk-config --cflags --ldflags)
-
 #include <FL/Fl.H>
 #include <FL/Fl_Window.H>
 #include <FL/Fl_Input.H>
